@@ -9,5 +9,4 @@ function pow(n,x){
 	return x < 0 ? 1/temp : temp;
 }
 	
-};
  
